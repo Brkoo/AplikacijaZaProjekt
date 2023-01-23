@@ -5,7 +5,7 @@ The Direct4me Smart Box app is a convenient tool for managing and accessing Dire
 ## Features
 - Login and registration
 - Facial recognition login
-- Acces to all locations of smart boxes around Slovenia
+- Access to all locations of smart boxes around Slovenia
 - TSP+GA for generating fastest route
 
 ## Screenshots
